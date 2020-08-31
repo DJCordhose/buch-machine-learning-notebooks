@@ -5,3 +5,11 @@ Dies ist das neue Zuhause unser Notebooks, die ursprüngliche von Azure Notebook
 
 Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausführen oder diese mit den folgenden Links direkt auf Google Colab (https://colab.research.google.com/) ausführen:
 
+* Kapitel 2: https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap2.ipynb
+* Kapitel 3: https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap3.ipynb
+* Kapitel 4: https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap4.ipynb
+* Kapitel 5: https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap5.ipynb
+* Kapitel 6: https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap6.ipynb
+* Kapitel 7: 
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap7-iris.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap7-cnn.ipynb
