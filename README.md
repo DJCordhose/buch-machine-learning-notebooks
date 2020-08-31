@@ -10,6 +10,6 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 * Kapitel 4: https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap4.ipynb
 * Kapitel 5: https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap5.ipynb
 * Kapitel 6: https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap6.ipynb
-* Kapitel 7: 
+* Kapitel 7 (migriert auf die aktuellste TensorFlow und Keras-Version):
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap7-iris.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap7-cnn.ipynb
