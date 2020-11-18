@@ -3,6 +3,7 @@ Notebooks für das Buch Machine Learning - kurz &amp; gut: https://oreilly.de/pr
 
 Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausführen oder diese mit den folgenden Links direkt auf Google Colab (https://colab.research.google.com/) ausführen:
 
+## Direkte Links auf Colab-Notebooks
 * Kapitel 2 (Quick-Start): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap2.ipynb
 * Kapitel 3 (Datenimport und -vorbereitung): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap3.ipynb
 * Kapitel 4 (Supervised Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap4.ipynb
