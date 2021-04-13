@@ -1,6 +1,6 @@
 # Notebooks für das Buch Machine Learning
 
-Notebooks für das Buch Machine Learning - kurz &amp; gut: https://oreilly.de/produkt/machine-learning-kurz-gut
+Notebooks für das Buch Machine Learning - kurz &amp; gut: https://oreilly.de/produkt/machine-learning-kurz-gut-2/
 
 Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausführen oder diese mit den folgenden Links direkt auf Google Colab (https://colab.research.google.com/) ausführen:
 
