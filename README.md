@@ -31,7 +31,7 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 
 ## Zusätzliche Erklärungen
 
-### Erklärung zu Abbildung 6-1 und 6-2 (Dank an )
+### Erklärung zu Abbildung 6-1 und 6-2
 
 Precision-Recall- und ROC-Kurven sind gute Indikatoren fuer das Potential deines Modells.
 Wie du sicherlich schon erkannt hast muss man immer einen Kompromiss zwischen verschiedenen 
