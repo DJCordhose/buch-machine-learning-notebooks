@@ -1,4 +1,4 @@
-# Notebooks für das Buch Machine Learning
+# Notebooks für das Buch Machine Learning - kurz &amp; gut
 
 Notebooks für das Buch Machine Learning - kurz &amp; gut: https://oreilly.de/produkt/machine-learning-kurz-gut-2/
 
