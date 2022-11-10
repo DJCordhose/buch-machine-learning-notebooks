@@ -22,16 +22,22 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 * Kapitel 8: neu in Auflage 2
 * Kapitel 9: neu in Auflage 2
 
-## Errata Auflage 2 (korrigiert im ersten Nachdruck)
+## Errata Auflage 2 (bereits korrigiert im ersten Nachdruck)
 * Kapitel 6
-  * 118: Sensitivity muesste tp / (tp+fn) sein (Dank an Stefan Ollinger)
+  * 118: Sensitivity müsste tp / (tp+fn) sein (Dank an Stefan Ollinger)
   * 119 in den Gleichungen: "Mean Squared Error" sollte "Mean Absolute Error" und "Mean Absolute Error" sollte "Median Absolute Error" sein  (Dank an Stefan Ollinger)
 * Kapitel 7
   * 138 im Listing unten: Model Parameter "inputs" und "outputs" (Dank an Stefan Ollinger)
 
+## Errata Auflage 2 (bisher nicht korrigiert)
+* Kapitel 4
+  * 77 oben: die Ebenen 4 und 5 werden nicht in der Abbildung 4-29 und 4-30, sondern in 4-30 und 4-31 gezeigt
+  * 79 oben: die maximale Anzahl der Ebenen ist hier nicht 5, sondern 2, wie auch richtig im Plot 4-32 dargestellt
+
+
 ## Zusätzliche Erklärungen
 
-### Erklärung zu Abbildung 6-1 und 6-2
+### Erklärung zu Abbildung 6-1 und 6-2 (bereits hinzugefügt im ersten Nachdruck)
 
 Precision-Recall- und ROC-Kurven sind gute Indikatoren fuer das Potential deines Modells.
 Wie du sicherlich schon erkannt hast muss man immer einen Kompromiss zwischen verschiedenen 
