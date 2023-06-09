@@ -29,7 +29,7 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 * Kapitel 7
   * 138 im Listing unten: Model Parameter "inputs" und "outputs" (Dank an Stefan Ollinger)
 
-## Errata Auflage 2 (bisher nicht korrigiert)
+## Errata Auflage 2 (bereits korrigiert im zweiten Nachdruck)
 * Kapitel 4
   * 77 oben: die Ebenen 4 und 5 werden nicht in der Abbildung 4-29 und 4-30, sondern in 4-30 und 4-31 gezeigt
   * 79 oben: die maximale Anzahl der Ebenen ist hier nicht 5, sondern 2, wie auch richtig im Plot 4-32 dargestellt
