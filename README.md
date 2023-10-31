@@ -1,8 +1,15 @@
 # Notebooks für das Buch Machine Learning - kurz &amp; gut
 
-Notebooks für das Buch Machine Learning - kurz &amp; gut: https://oreilly.de/produkt/machine-learning-kurz-gut-2/
+Notebooks für das Buch Machine Learning - kurz &amp; gut: https://dpunkt.de/produkt/machine-learning-kurz-gut-2/
 
-Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausführen oder diese mit den folgenden Links direkt auf Google Colab (https://colab.research.google.com/) ausführen:
+Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausführen oder diese mit den Colab Links direkt auf Google Colab (https://colab.research.google.com/) ausführen:
+
+## Abhängigkeiten für lokale Nutzung installieren
+
+1. virtuelles Environment erzeugen: `python3 -m venv .venv`
+1. Environment aktivieren `source .venv/bin/activate`
+1. Abhängigkeiten installieren `pip install -r requirements.txt`
+   * Enthält nicht die Abhängigkeiten für Kapitel 9, dies läuft ohne weiteres nur auf Colab
 
 ## Direkte Links auf Colab-Notebooks (aktualisiert auf neuste Versionen und lauffähig auf Colab Mai 2023)
 * Kapitel 2 (Quick-Start): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap2.ipynb
@@ -14,7 +21,7 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap7-iris.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap7-cnn.ipynb
 * Kapitel 8 (Unsupervised Learning mit Autoencodern): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap8.ipynb
-* Kapitel 9 (Deep Reinforcement Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap9.ipynb
+* Kapitel 9 (Deep Reinforcement Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap9.ipynb (funktioniert ohne weitere nur auf Colab)
 
 ## Änderungen zur Auflage 1
 * Kapitel 4: Abbruchsbedingungen für SGDRegressor sind in aktuellen Sklearn-Versionen verändert, der Code ist daraufhin angepasst
@@ -33,6 +40,10 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 * Kapitel 4
   * 77 oben: die Ebenen 4 und 5 werden nicht in der Abbildung 4-29 und 4-30, sondern in 4-30 und 4-31 gezeigt
   * 79 oben: die maximale Anzahl der Ebenen ist hier nicht 5, sondern 2, wie auch richtig im Plot 4-32 dargestellt
+
+## Änderungen zur Auflage 2
+* Kapitel 10: neu in Auflage 3
+* Kapitel 11: neu in Auflage 3
 
 
 ## Zusätzliche Erklärungen
