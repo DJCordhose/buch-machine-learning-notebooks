@@ -6,4 +6,4 @@ scikit-learn
 tensorflow
 lrcurve
 causalgraphicalmodels
-evidently
+evidently==0.4.8
