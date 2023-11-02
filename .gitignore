@@ -1,4 +1,4 @@
 .venv
-kap11/datasets/model-based-1.csv
 kap11/classifier
-kap11/model.png
+kap11/classifier-binary
+kap11/datasets/model-based-1.csv
