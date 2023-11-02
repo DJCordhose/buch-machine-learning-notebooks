@@ -8,3 +8,4 @@ lrcurve
 causalgraphicalmodels
 evidently==0.4.8
 pydot
+jupyter
