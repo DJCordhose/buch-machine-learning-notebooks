@@ -9,3 +9,5 @@ causalgraphicalmodels
 evidently==0.4.8
 pydot
 jupyter
+tiktoken
+openai
