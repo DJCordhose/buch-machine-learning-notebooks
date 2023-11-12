@@ -1,16 +1,27 @@
+# basics
 numpy
 pandas
 matplotlib
 seaborn
-scikit-learn
-tensorflow
-lrcurve
-causalgraphicalmodels
-evidently==0.4.8
 pydot
 jupyter
 
+# machine learning
+scikit-learn
+
+# deep learning
+tensorflow
+lrcurve
+
+# data analysis
+causalgraphicalmodels
+evidently==0.4.8
+
+# GPT
 tiktoken
 openai
+
+# Transformers
 transformers
+datasets
 sentence-transformers
