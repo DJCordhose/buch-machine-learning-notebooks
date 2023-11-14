@@ -24,4 +24,3 @@ openai
 # Transformers
 transformers
 datasets
-sentence-transformers
