@@ -11,7 +11,7 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 1. Abhängigkeiten installieren `pip install -r requirements.txt`
    * Enthält nicht die Abhängigkeiten für Kapitel 9, dies läuft ohne weiteres nur auf Colab
 
-## Direkte Links auf Colab-Notebooks (aktualisiert auf neuste Versionen und lauffähig auf Colab Mai 2023)
+## Direkte Links auf Colab-Notebooks (aktualisiert auf neuste Versionen und lauffähig auf Colab November 2023)
 * Kapitel 2 (Quick-Start): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap2.ipynb
 * Kapitel 3 (Datenimport und -vorbereitung): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap3.ipynb
 * Kapitel 4 (Supervised Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap4.ipynb
@@ -26,7 +26,6 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10/llms-openai.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10/transformers-tasks.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10/transformers-fine-tuning.ipynb
-
 * Kapitel 11 (MLOps - Machine Learning im Betrieb): 
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap11/train.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap11/drift-detection.ipynb
@@ -54,7 +53,6 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 ## Änderungen zur Auflage 2
 * Kapitel 10: neu in Auflage 3
 * Kapitel 11: neu in Auflage 3
-
 
 ## Zusätzliche Erklärungen
 
