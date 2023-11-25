@@ -23,7 +23,7 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 * Kapitel 8 (Unsupervised Learning mit Autoencodern): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap8.ipynb
 * Kapitel 9 (Deep Reinforcement Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap9.ipynb (funktioniert ohne weiteres nur auf Colab)
 * Kapitel 10 (Moderne Sprachmodelle): 
-  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10/llms-openai.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10/llms.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10/transformers-tasks.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10/transformers-fine-tuning.ipynb
 * Kapitel 11 (MLOps - Machine Learning im Betrieb): 
@@ -50,11 +50,7 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
   * 77 oben: die Ebenen 4 und 5 werden nicht in der Abbildung 4-29 und 4-30, sondern in 4-30 und 4-31 gezeigt
   * 79 oben: die maximale Anzahl der Ebenen ist hier nicht 5, sondern 2, wie auch richtig im Plot 4-32 dargestellt
 
-## Änderungen zur Auflage 2
-* Kapitel 10: neu in Auflage 3
-* Kapitel 11: neu in Auflage 3
-
-## Zusätzliche Erklärungen
+## Zusätzliche Erklärungen zu Auflage 2
 
 ### Erklärung zu Abbildung 6-1 und 6-2 (bereits hinzugefügt im ersten Nachdruck)
 
@@ -74,3 +70,8 @@ Sehr praktische Tools dafuer gibt es in z. B. auch in Sklearn:
 fpr, tpr, thresholds = sklearn.metrics.roc_curve(y_true, y_scores)
 precision, recall, thresholds = sklearn.metrics.precision_recall_curve(y_true, y_scores)
 ```
+
+## Änderungen zur Auflage 2
+* Kapitel 10: neu in Auflage 3
+* Kapitel 11: neu in Auflage 3
+

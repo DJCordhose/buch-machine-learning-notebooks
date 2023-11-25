@@ -8,6 +8,7 @@ jupyter
 
 # machine learning
 scikit-learn
+umap-learn
 
 # deep learning
 tensorflow
