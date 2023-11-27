@@ -24,6 +24,7 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 * Kapitel 9 (Deep Reinforcement Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap9.ipynb (funktioniert ohne weiteres nur auf Colab)
 * Kapitel 10 (Moderne Sprachmodelle): 
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10/llms.ipynb
+  * Playground für unser Sentiment-Beispiel: https://platform.openai.com/playground/p/9Fsbs7sYgmiY4mFAHFeR1QX5?mode=chat
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10/transformers-tasks.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10/transformers-fine-tuning.ipynb
 * Kapitel 11 (MLOps - Machine Learning im Betrieb): 
