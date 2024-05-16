@@ -1,7 +1,27 @@
+# basics
 numpy
 pandas
 matplotlib
 seaborn
-sklearn
+pydot
+jupyter
+
+# machine learning
+scikit-learn
+umap-learn
+
+# deep learning
 tensorflow
 lrcurve
+
+# data analysis
+causalgraphicalmodels
+evidently==0.4.19
+
+# GPT
+tiktoken
+openai
+
+# Transformers
+transformers
+datasets
