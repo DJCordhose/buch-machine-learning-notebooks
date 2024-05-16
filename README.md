@@ -22,11 +22,13 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap7-cnn.ipynb
 * Kapitel 8 (Unsupervised Learning mit Autoencodern): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap8.ipynb
 * Kapitel 9 (Deep Reinforcement Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap9.ipynb (funktioniert ohne weiteres nur auf Colab)
-* Kapitel 10 (Moderne Sprachmodelle): 
+* Kapitel 10 (Moderne Sprachmodelle):
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-openai-api.ipynb
   * Playground für unser Sentiment-Beispiel: https://platform.openai.com/playground/p/9Fsbs7sYgmiY4mFAHFeR1QX5?mode=chat
-  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10/transformers-tasks.ipynb
-  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10/transformers-fine-tuning.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-embeddings.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-function-calling.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-bert-tasks.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-bert-fine-tuning.ipynb
 * Kapitel 11 (MLOps - Machine Learning im Betrieb): 
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap11-train.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap11-drift.ipynb
