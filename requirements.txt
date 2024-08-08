@@ -16,7 +16,7 @@ lrcurve
 
 # data analysis
 causalgraphicalmodels
-evidently==0.4.19
+evidently==0.4.33
 
 # GPT
 tiktoken
