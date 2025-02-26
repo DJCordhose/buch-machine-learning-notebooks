@@ -76,3 +76,13 @@ precision, recall, thresholds = sklearn.metrics.precision_recall_curve(y_true, y
 * Kapitel 10: neu in Auflage 3
 * Kapitel 11: neu in Auflage 3
 
+
+## Errata Auflage 3
+* Kapitel 4
+  * 75: "C ist umgekehrt proportional zu \lambda: C ~ 1/\lambda" soll "C ist umgekehrt proportional zu \lambda: C \propto 1/\lambda" sein.
+* Kapitel 6
+  * 123: In der Tabelle soll "tc    Anzahl der Beispiele mit dem Label `versicolor` und die vom Modell richtig als `versicolor` vorausgesagt wurden." sein.
+* Kapitel 7
+  * 143: "w_0 + w_1 \cdot x_1 + w_2 \cdot x_2" ist keine mathematische Gleichung sondern ein mathematischer Ausdruck. "w_0 + w_1 \cdot x_1 + w_2 \cdot x_2 = 0" ist eine mathematische Gleichung. 
+  * 162: Es soll: "Abbildung 7-14: Verlauf der Accuracy der Trainingsdaten" sein. Jetzt sagt es, "Verlauf der Accuracy der Testdaten".
+  * 166: Man soll nicht die Accuracy der Testdaten während Training kalkulieren. Daher ist "Zuerst schauen wir uns die Kurve für die Accuracy der Trainingsdaten in Abbildung 7-16." gemeint. Außerdem soll die Bildunterschrift wahrscheinlich: "Verlauf der Accuracy der Trainingsdaten bei dem kompletten Datensatz" sein. 
