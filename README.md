@@ -77,7 +77,7 @@ precision, recall, thresholds = sklearn.metrics.precision_recall_curve(y_true, y
 * Kapitel 11: neu in Auflage 3
 
 
-## Errata Auflage 3
+## Errata Auflage 3 (vielen Dank an https://github.com/chandlerNick)
 * Kapitel 4
   * 75: "C ist umgekehrt proportional zu \lambda: C ~ 1/\lambda" soll "C ist umgekehrt proportional zu \lambda: C \propto 1/\lambda" sein.
 * Kapitel 6
