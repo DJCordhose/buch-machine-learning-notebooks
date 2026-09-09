@@ -1,22 +1,31 @@
 # basics
+jupyter
+ipykernel
 numpy
 pandas
 matplotlib
 seaborn
-pydot
-jupyter
+scipy
+packaging
 
 # machine learning
 scikit-learn
-umap-learn
+scikit-image
 
 # deep learning
-tensorflow
-lrcurve
+torch
+torchinfo
+torchvision
+torchmetrics
+torchview
+
+# notebook/runtime helpers
+pillow
+tqdm
 
 # data analysis
-causalgraphicalmodels
-evidently==0.4.33
+evidently>=0.4.33
+graphviz
 
 # GPT
 tiktoken
