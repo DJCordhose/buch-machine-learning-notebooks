@@ -1,22 +1,36 @@
 # Notebooks für das Buch Machine Learning - kurz &amp; gut
 
-Notebooks für das Buch Machine Learning - kurz &amp; gut: https://dpunkt.de/produkt/machine-learning-kurz-gut-2/
+Es gibt zwei Versionen des Buchs:
+1. Machine Learning mit **PyTorch** - kurz &amp; gut: https://dpunkt.de/produkt/machine-learning-mit-pytorch-kurz-gut/
+2. Machine Learning mit **TensforFlow** - kurz &amp; gut https://dpunkt.de/produkt/machine-learning-kurz-gut-3/
 
 Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausführen oder diese mit den Colab Links direkt auf Google Colab (https://colab.research.google.com/) ausführen:
 
-## Direkte Links auf Colab-Notebooks für **Pytorch**
-* Kapitel 2 (Quick-Start): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap2.ipynb
-* Kapitel 3 (Datenimport und -vorbereitung): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap3.ipynb
-* Kapitel 4 (Supervised Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap4.ipynb
-* Kapitel 5 (Feature-Auswahl): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap5.ipynb
-* Kapitel 6 (Modellvalidierung): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap6.ipynb
+# Notebooks für die **Pytorch** Version
+
+## Abhängigkeiten für lokale Nutzung installieren
+
+1. Eine aktuelle 3.x Python Version installieren
+   * https://www.python.org/downloads/
+   * Auf den Mac auch mit Homebrew möglich
+     1. Anleitung zur Installation von homebrew: https://docs.brew.sh/Homebrew-and-Python
+     1. Anleitung zur Installation von Python: https://formulae.brew.sh/formula/python@3.14
+1. virtuelles Environment erzeugen: `python3 -m venv .venv`
+1. Environment aktivieren `source .venv/bin/activate`
+1. Abhängigkeiten installieren `pip install -r pytorch/requirements.txt`
+
+## Direkte Links auf Colab-Notebooks
+* Kapitel 2 (Quick-Start): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap2.ipynb
+* Kapitel 3 (Datenimport und -vorbereitung): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap3.ipynb
+* Kapitel 4 (Supervised Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap4.ipynb
+* Kapitel 5 (Feature-Auswahl): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap5.ipynb
+* Kapitel 6 (Modellvalidierung): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap6.ipynb
 * Kapitel 7 (Neuronale Netze und Deep Learning):
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap7-iris.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap7-cnn.ipynb
 * Kapitel 8 (Unsupervised Learning mit Autoencodern): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap8.ipynb
 * Kapitel 9 (Moderne Sprachmodelle):
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-openai-api.ipynb
-  * Playground für unser Sentiment-Beispiel: https://platform.openai.com/playground/p/9Fsbs7sYgmiY4mFAHFeR1QX5?mode=chat
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-embeddings.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-function-calling.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-bert-tasks.ipynb
@@ -25,14 +39,21 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap10-train.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap10-drift.ipynb
 
+# **TensorFlow** Version
+
 ## Abhängigkeiten für lokale Nutzung installieren
 
+1. Eine aktuelle 3.x Python Version installieren
+   * https://www.python.org/downloads/
+   * Auf den Mac auch mit Homebrew möglich
+     1. Anleitung zur Installation von homebrew: https://docs.brew.sh/Homebrew-and-Python
+     1. Anleitung zur Installation von Python: https://formulae.brew.sh/formula/python@3.14
 1. virtuelles Environment erzeugen: `python3 -m venv .venv`
 1. Environment aktivieren `source .venv/bin/activate`
 1. Abhängigkeiten installieren `pip install -r requirements.txt`
    * Enthält nicht die Abhängigkeiten für Kapitel 9, dies läuft ohne weiteres nur auf Colab
 
-## Direkte Links auf Colab-Notebooks (aktualisiert auf neuste Versionen und lauffähig auf Colab November 2023)
+## Direkte Links auf Colab-Notebooks
 * Kapitel 2 (Quick-Start): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap2.ipynb
 * Kapitel 3 (Datenimport und -vorbereitung): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap3.ipynb
 * Kapitel 4 (Supervised Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap4.ipynb
@@ -45,7 +66,6 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 * Kapitel 9 (Deep Reinforcement Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap9.ipynb (funktioniert ohne weiteres nur auf Colab)
 * Kapitel 10 (Moderne Sprachmodelle):
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-openai-api.ipynb
-  * Playground für unser Sentiment-Beispiel: https://platform.openai.com/playground/p/9Fsbs7sYgmiY4mFAHFeR1QX5?mode=chat
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-embeddings.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-function-calling.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-bert-tasks.ipynb
@@ -106,4 +126,28 @@ precision, recall, thresholds = sklearn.metrics.precision_recall_curve(y_true, y
 * Kapitel 7
   * 143: "w_0 + w_1 \cdot x_1 + w_2 \cdot x_2" ist keine mathematische Gleichung sondern ein mathematischer Ausdruck. "w_0 + w_1 \cdot x_1 + w_2 \cdot x_2 = 0" ist eine mathematische Gleichung. 
   * 162: Es soll: "Abbildung 7-14: Verlauf der Accuracy der Trainingsdaten" sein. Jetzt sagt es, "Verlauf der Accuracy der Testdaten".
-  * 166: Man soll nicht die Accuracy der Testdaten während Training kalkulieren. Daher ist "Zuerst schauen wir uns die Kurve für die Accuracy der Trainingsdaten in Abbildung 7-16." gemeint. Außerdem soll die Bildunterschrift wahrscheinlich: "Verlauf der Accuracy der Trainingsdaten bei dem kompletten Datensatz" sein. 
+  * 166: Man soll nicht die Accuracy der Testdaten während Training kalkulieren. Daher ist "Zuerst schauen wir uns die Kurve für die Accuracy der Trainingsdaten in Abbildung 7-16." gemeint. Außerdem soll die Bildunterschrift wahrscheinlich: "Verlauf der Accuracy der Trainingsdaten bei dem kompletten Datensatz" sein.
+
+## Errata Auflage 3 Stand 06-2026
+* Kapitel 5
+  * Code 106 + 107 oben:
+    Dieses Codebeispiel fehlt in der Voraussage im Notebook
+    Es ist nun unterhalb der Erzeugung von Abb. 5-10 eingefügt
+
+* Kapitel 6
+  * Seite 123, Formel oben:
+    unten links muss fn statt fp stehen, also:
+    tp fp
+    fn tn
+
+* Kapitel 7
+  * 143:
+    x2 = y, x1 = x, -w1 ∙ w2 = a, -w0 ∙ w2 = b muss heißen:
+    x2 = y, x1 = x, -w1 / w2 = a, -w0 / w2 = b
+ 
+    Die angegebenen Koeffizienten müssen durch das Gewicht der zweiten
+    Variablen geteilt werden; mit einer Multiplikation ergibt sich nicht
+    die behauptete Geradengleichung.
+
+  * 158: Die in der Flatten-Schicht flachgeklopften Bilder haben nach drei Mal MaxPooling die Dimensionen 256 x 8 x 8. 
+
