@@ -1,0 +1,36 @@
+# basics
+jupyter
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+packaging
+
+# machine learning
+scikit-learn
+scikit-image
+
+# deep learning
+torch
+torchinfo
+torchvision
+torchmetrics
+torchview
+
+# notebook/runtime helpers
+pillow
+tqdm
+
+# data analysis
+evidently>=0.4.33
+graphviz
+
+# GPT
+tiktoken
+openai
+
+# Transformers
+transformers
+datasets
