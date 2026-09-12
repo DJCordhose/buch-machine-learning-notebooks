@@ -33,9 +33,9 @@ Die Notebooks ohne spezielle Nutzung von Pytorch sind im Root-Verzeichnis, die a
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap7-cnn.ipynb
 * Kapitel 8 (Unsupervised Learning mit Autoencodern): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap8.ipynb
 * Kapitel 9 (Moderne Sprachmodelle):
-  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/openai-api.ipynb
-  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-embeddings.ipynb
-  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-function-calling.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/openai-api-basics.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/openai-api-embeddings.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/openai-api-function-calling.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-bert-tasks.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-bert-fine-tuning.ipynb
 * Kapitel 10 (MLOps - Machine Learning im Betrieb): 
@@ -69,8 +69,8 @@ Die Notebooks ohne spezielle Nutzung von Pytorch sind im Root-Verzeichnis, die a
 * Kapitel 9 (Deep Reinforcement Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap9.ipynb (funktioniert ohne weiteres nur auf Colab)
 * Kapitel 10 (Moderne Sprachmodelle):
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/openai-api.ipynb
-  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-embeddings.ipynb
-  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-function-calling.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/openai-api-embeddings.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/openai-api-function-calling.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-bert-tasks.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-bert-fine-tuning.ipynb
 * Kapitel 11 (MLOps - Machine Learning im Betrieb): 
