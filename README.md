@@ -66,13 +66,13 @@ Die Notebooks ohne spezielle Nutzung von Pytorch sind im Root-Verzeichnis, die a
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap7-iris.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap7-cnn.ipynb
 * Kapitel 8 (Unsupervised Learning mit Autoencodern): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap8.ipynb
-* Kapitel 9 (Deep Reinforcement Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap9.ipynb (funktioniert ohne weiteres nur auf Colab)
+* Kapitel 9 (Deep Reinforcement Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap9.ipynb (Code mittlerweise auch auf Colab brüchig, Kapitel selbst ist nach wie vor sinnvoll)
 * Kapitel 10 (Moderne Sprachmodelle):
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/openai-api.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/openai-api-embeddings.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/openai-api-function-calling.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-bert-tasks.ipynb
-  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-bert-fine-tuning.ipynb (Ab Version 5 unterstützt _transformers_ zum Fine-Tuning nur noch Torch, wir empfehlen daher die Pytorch-Version unter https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-bert-fine-tuning.ipynb)
+  * Ab Version 5 unterstützt _transformers_ zum Fine-Tuning nur noch Torch, wir empfehlen daher die Pytorch-Version unter https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-bert-fine-tuning.ipynb
 * Kapitel 11 (MLOps - Machine Learning im Betrieb): 
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap11-train.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap11-drift.ipynb
