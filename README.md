@@ -6,7 +6,7 @@ Es gibt zwei Versionen des Buchs:
 
 Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausführen oder diese mit den Colab Links direkt auf Google Colab (https://colab.research.google.com/) ausführen:
 
-# Notebooks für die **Pytorch** Version
+# *Pytorch* Version
 
 ## Abhängigkeiten für lokale Nutzung installieren
 
@@ -39,7 +39,7 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap10-train.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap10-drift.ipynb
 
-# **TensorFlow** Version
+# *TensorFlow* Version
 
 ## Abhängigkeiten für lokale Nutzung installieren
 
