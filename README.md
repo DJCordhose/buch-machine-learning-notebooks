@@ -4,6 +4,27 @@ Notebooks für das Buch Machine Learning - kurz &amp; gut: https://dpunkt.de/pro
 
 Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausführen oder diese mit den Colab Links direkt auf Google Colab (https://colab.research.google.com/) ausführen:
 
+## Direkte Links auf Colab-Notebooks für **Pytorch**
+* Kapitel 2 (Quick-Start): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap2.ipynb
+* Kapitel 3 (Datenimport und -vorbereitung): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap3.ipynb
+* Kapitel 4 (Supervised Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap4.ipynb
+* Kapitel 5 (Feature-Auswahl): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap5.ipynb
+* Kapitel 6 (Modellvalidierung): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap6.ipynb
+* Kapitel 7 (Neuronale Netze und Deep Learning):
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap7-iris.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap7-cnn.ipynb
+* Kapitel 8 (Unsupervised Learning mit Autoencodern): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap8.ipynb
+* Kapitel 9 (Moderne Sprachmodelle):
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-openai-api.ipynb
+  * Playground für unser Sentiment-Beispiel: https://platform.openai.com/playground/p/9Fsbs7sYgmiY4mFAHFeR1QX5?mode=chat
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-embeddings.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-function-calling.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-bert-tasks.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-bert-fine-tuning.ipynb
+* Kapitel 10 (MLOps - Machine Learning im Betrieb): 
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap10-train.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap10-drift.ipynb
+
 ## Abhängigkeiten für lokale Nutzung installieren
 
 1. virtuelles Environment erzeugen: `python3 -m venv .venv`
