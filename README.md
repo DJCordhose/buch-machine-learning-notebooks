@@ -10,6 +10,8 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 
 ## Abhängigkeiten für lokale Nutzung installieren
 
+Die Notebooks ohne spezielle Nutzung von Pytorch sind im Root-Verzeichnis, die anderen im Verzeichnis Pytorch.
+
 1. Eine aktuelle 3.x Python Version installieren
    * https://www.python.org/downloads/
    * Auf den Mac auch mit Homebrew möglich
@@ -18,6 +20,7 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 1. virtuelles Environment erzeugen: `python3 -m venv .venv`
 1. Environment aktivieren `source .venv/bin/activate`
 1. Abhängigkeiten installieren `pip install -r pytorch/requirements.txt`
+
 
 ## Direkte Links auf Colab-Notebooks
 * Kapitel 2 (Quick-Start): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap2.ipynb
