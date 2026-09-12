@@ -10,7 +10,7 @@ Du kannst dieses Repository entweder clonen und die Notebooks bei dir lokal ausf
 
 ## Abhängigkeiten für lokale Nutzung installieren
 
-Die Notebooks ohne spezielle Nutzung von Pytorch sind im Root-Verzeichnis, die anderen im Verzeichnis Pytorch.
+Die Notebooks ohne spezielle Nutzung von Pytorch sind im Root-Verzeichnis, die anderen im Verzeichnis ```pytorch```.
 
 1. Eine aktuelle 3.x Python Version installieren
    * https://www.python.org/downloads/
@@ -33,7 +33,7 @@ Die Notebooks ohne spezielle Nutzung von Pytorch sind im Root-Verzeichnis, die a
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap7-cnn.ipynb
 * Kapitel 8 (Unsupervised Learning mit Autoencodern): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap8.ipynb
 * Kapitel 9 (Moderne Sprachmodelle):
-  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-openai-api.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/openai-api.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-embeddings.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-function-calling.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/pytorch/kap9-bert-tasks.ipynb
@@ -68,7 +68,7 @@ Die Notebooks ohne spezielle Nutzung von Pytorch sind im Root-Verzeichnis, die a
 * Kapitel 8 (Unsupervised Learning mit Autoencodern): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap8.ipynb
 * Kapitel 9 (Deep Reinforcement Learning): https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap9.ipynb (funktioniert ohne weiteres nur auf Colab)
 * Kapitel 10 (Moderne Sprachmodelle):
-  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-openai-api.ipynb
+  * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/openai-api.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-embeddings.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-function-calling.ipynb
   * https://colab.research.google.com/github/djcordhose/buch-machine-learning-notebooks/blob/master/kap10-bert-tasks.ipynb
